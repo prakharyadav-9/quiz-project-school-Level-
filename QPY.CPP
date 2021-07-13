@@ -2,7 +2,7 @@
 ********************* IMPORTANT **********************
 
 this project is a quiz implementation basic function requirements is knowledge of
-C/C++ programming at the beginner  level.
+C++ programming at the beginner  level.
 this project can be used as standard 11th (+1) school project
 
 ************** THANK YOU ***************************  
